@@ -1,0 +1,3 @@
+/home/zerohour/第二次任务喵/task/build/CMakeFiles/task.dir
+/home/zerohour/第二次任务喵/task/build/CMakeFiles/edit_cache.dir
+/home/zerohour/第二次任务喵/task/build/CMakeFiles/rebuild_cache.dir
